@@ -14,3 +14,17 @@ Toggle display between all todos or only uncompleted todos
 Bulk selection – check/uncheck all todos at once
 
 Input validation – Save button disables if todo has less than 2 words
+
+
+# 🛠️ Technologies & Concepts Learned
+
+
+React Hooks (useState, useEffect)
+
+Event handling & state management
+
+Responsive design with Tailwind CSS
+
+LocalStorage for data persistence
+
+Conditional rendering & dynamic UI updates
