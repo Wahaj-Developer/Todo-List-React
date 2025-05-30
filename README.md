@@ -28,3 +28,7 @@ Responsive design with Tailwind CSS
 LocalStorage for data persistence
 
 Conditional rendering & dynamic UI updates
+
+
+# This project helped me strengthen my understanding of React fundamentals and Tailwind utility classes while building a functional todo app.
+
